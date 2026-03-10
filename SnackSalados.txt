@@ -1,7 +1,12 @@
 1. Pipas
 2. Almendras
-3. Avellanas
+3. Avellanas con chocolate
 4. Jamón con puerros
 5. triskis
 6. Patatas fritas
+<<<<<<< HEAD
 9. Aceitunas aliñadas en vinagre
+=======
+9. Ni lo uno ni lo otro
+10. Ni lo de más allá
+>>>>>>> fb43a43 (Cambio vegetarianos y salados. No me gustan)
